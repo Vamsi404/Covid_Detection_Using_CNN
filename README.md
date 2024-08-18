@@ -8,7 +8,7 @@ Here’s a comprehensive and visually appealing README.md template for your proj
 This project leverages Convolutional Neural Networks (CNN) to detect COVID-19 infections from chest X-ray images. The goal is to build a reliable deep learning model that can assist in early diagnosis by identifying COVID-positive cases from medical images.
 
 <p align="center">
-  <img src="/Users/vamsimanda/Covid_Detection_Using_CNN/input_matrix.jpg" alt="Input-Data" width="500"/>
+  <img src="input_matrix.jpg" alt="Input-Data" width="500"/>
 </p>
 
 ## 🚀 Features
@@ -64,7 +64,7 @@ The CNN model consists of multiple convolutional layers followed by max pooling,
 ## 📈 Visualizations
 
 <p align="center">
-  <img src="/Users/vamsimanda/Covid_Detection_Using_CNN/confusion_matrix.jpg" alt="Confusion Matrix" width="500"/>
+  <img src="confusion_matrix.jpg" alt="Confusion Matrix" width="500"/>
 </p>
 
 ## 🔍 Data
